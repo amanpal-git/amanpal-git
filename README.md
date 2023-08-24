@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Pal</h1>
 <h3 align="center">Exploring the World of Data: Embarking on a Journey as a Passionate Data Enthusiast</h3>
-<img align="right" alt="dataanalyst" width="400" src="https://storyset.com/illustration/game-analytics/rafiki/animate?share=69894">
+<img align="right" alt="dataanalyst" width="400" src="https://github.com/amanpal-git/amanpal-git/assets/121402275/e1990867-9ed3-45dd-9c17-1904f3ca9ff4
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpal-git&label=Profile%20views&color=0e75b6&style=flat" alt="amanpal-git" /> </p>
 
