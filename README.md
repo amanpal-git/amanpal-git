@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Pal</h1>
 <h3 align="center">Exploring the World of Data: Embarking on a Journey as a Passionate Data Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="/116207https://lottie.host/?file=2b3e001e-0586-4389-bd39-c5d10a878624/sgtrO2TW7o.json">
+<img align="right" alt="dataanalyst" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpal-git&label=Profile%20views&color=0e75b6&style=flat" alt="amanpal-git" /> </p>
 
