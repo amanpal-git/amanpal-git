@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpal-git&label=Profile%20views&color=0e75b6&style=flat" alt="amanpal-git" /> </p>
 
-- 🔭 I’m currently working on **Logistic Regression**
+- 🔭 I’m currently working on **Data Science Skills**
 
 - 🌱 I’m currently learning **Machine Learning, Power BI, Python**
 
