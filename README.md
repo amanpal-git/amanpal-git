@@ -1,13 +1,9 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966?fbclid=IwAR2Cqu8ghdnHGIsKEThjI_abUx1lc3jgO91r2A8MsMP2TiElwYEq0XAN4xA
-)](https://rishavchanda.io)
-
+![MasterHead](https://i.redd.it/n8agw6z2smyb1.gif)
 
 <h1 align="center">Hi 👋, I'm Aman Pal</h1>
 <h3 align="center">Exploring the World of Data: Embarking on a Journey as a Passionate Data Enthusiast</h3>
-<img align="right" alt="dataanalyst" width="400" src="[https://camo.githubusercontent.com/3c8d1a244e65ee2ce32df43ab7fb35a782e059f8a721b76fd877a50472a9c4f6/68747470733a2f2f7777772e736179796164696d72616e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966](https://lottie.host/12bc879c-20dc-43d7-b424-2c8787575120/IPToXnOoIF.json)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpal-git&label=Profile%20views&color=0e75b6&style=flat" alt="amanpal-git" /> </p>
 
 - 🔭 I’m currently working on **Data Science Skills**
 
