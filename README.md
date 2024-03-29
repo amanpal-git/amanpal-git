@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Aman Pal</h1>
 <h3 align="center">Exploring the World of Data: Embarking on a Journey as a Passionate Data Enthusiast</h3>
-<img align="right" alt="dataanalyst" width="400" src="https://camo.githubusercontent.com/3c8d1a244e65ee2ce32df43ab7fb35a782e059f8a721b76fd877a50472a9c4f6/68747470733a2f2f7777772e736179796164696d72616e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966">
+<img align="right" alt="dataanalyst" width="400" src="[https://camo.githubusercontent.com/3c8d1a244e65ee2ce32df43ab7fb35a782e059f8a721b76fd877a50472a9c4f6/68747470733a2f2f7777772e736179796164696d72616e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966](https://lottie.host/12bc879c-20dc-43d7-b424-2c8787575120/IPToXnOoIF.json)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpal-git&label=Profile%20views&color=0e75b6&style=flat" alt="amanpal-git" /> </p>
